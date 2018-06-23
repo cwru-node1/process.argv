@@ -14,6 +14,6 @@ Take a look at the file and try to understand what is going on from a high level
 
 If done correctly, you should get something similar to the two images below
 
-![1-Server_1](images/publickey.png)
-![1-Server_2](images/privatekey.png)
-node 
+![Public_Key](images/publickey.PNG)
+![Private_Key](images/privatekey.PNG)
+

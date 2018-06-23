@@ -1,5 +1,5 @@
 //These are npm packages that are required to run the program
-//This will be clear in the next two classes
+//This will be cleared in the next two classes
 var openpgp = require('openpgp');
 var fs = require('fs');
 

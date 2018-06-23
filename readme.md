@@ -17,3 +17,14 @@ If done correctly, you should get something similar to the two images below
 ![Public_Key](images/publickey.PNG)
 ![Private_Key](images/privatekey.PNG)
 
+The answer that they should be getting is
+
+node createkeys.js "name" "passphrase" privatekey publickey
+
+They should be observing that the program creates two files privatekey.txt and publickey.txt.  
+
+Those that didn't get the desired result should review 10.1
+
+All credit goes to:
+- [Another Webdev blog](https://blog.castiel.me/posts/003-play-with-cryptography-with-openpgpjs.html) to go further into cryptography
+
